@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.48 (w)1999-2013 BSI
+[*] Sun Nov 13 22:34:51 2016
+[*]
+[dumpfile] "/Users/chris/Documents/Personal/Code/verilog/adder/dump.vcd"
+[dumpfile_mtime] "Sun Nov 13 22:32:56 2016"
+[dumpfile_size] 2489
+[savefile] "/Users/chris/Documents/Personal/Code/verilog/adder/dump.gtkw"
+[timestart] 0
+[size] 1238 592
+[pos] 13 71
+*-15.548093 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] adder_tb.
+[sst_width] 238
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 154
+@28
+adder_tb.Clk_tb
+adder_tb.Reset_tb
+adder_tb.a
+adder_tb.b
+adder_tb.c_in
+@25
+adder_tb.Clk_cnt[31:0]
+@200
+-behavioral
+@28
+adder_tb.ADD_behavioral.sum
+adder_tb.ADD_behavioral.c_out
+@200
+-structural
+@28
+adder_tb.ADD_structural.sum
+adder_tb.ADD_structural.c_out
+@200
+-dataflow
+@28
+adder_tb.ADD_dataflow.sum
+adder_tb.ADD_dataflow.c_out
+[pattern_trace] 1
+[pattern_trace] 0
