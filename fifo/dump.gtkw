@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.48 (w)1999-2013 BSI
+[*] Mon Nov 28 01:28:52 2016
+[*]
+[dumpfile] "/Users/chris/Documents/Personal/Code/verilog/fifo/dump.vcd"
+[dumpfile_mtime] "Mon Nov 28 01:28:04 2016"
+[dumpfile_size] 1497
+[savefile] "/Users/chris/Documents/Personal/Code/verilog/fifo/dump.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-16.149633 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] fifo_tb.
+[sst_width] 203
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+fifo_tb.Clk_cnt
+fifo_tb.Clk_tb
+fifo_tb.pop_tb
+fifo_tb.push_tb
+fifo_tb.Reset_tb
+fifo_tb.DUT.full
+fifo_tb.DUT.empty
+@25
+fifo_tb.DUT.counter[2:0]
+[pattern_trace] 1
+[pattern_trace] 0
