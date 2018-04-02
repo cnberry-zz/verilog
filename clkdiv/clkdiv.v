@@ -4,9 +4,9 @@ module clkdiv (
 	output out
 	);
 
-	parameter N = 9;
+	parameter N = 3;
 
-	reg [31:0] pos_count, neg_count;
+	reg [3:0] pos_count, neg_count;
 
 	always @(posedge clk) begin
 		if (reset)
